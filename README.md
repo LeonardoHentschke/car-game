@@ -1,2 +1,2 @@
 # car-game
- COMPUTAÇÃO GRÁFICA - 2024B
+Univates 2024B - Computação gráfica - 3D Project
